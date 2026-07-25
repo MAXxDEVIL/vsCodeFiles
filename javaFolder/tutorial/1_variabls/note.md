@@ -19,8 +19,6 @@
                       |
     Boolean (boolean) |
                       |
-    Float (float)     |
-                      |
 
 
 ## More variabls
