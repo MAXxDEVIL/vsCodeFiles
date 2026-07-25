@@ -10,7 +10,7 @@
 🍏 > Nonprimitive = It stored memory address of auther variables.
 
      🍎 Primitive    vs   🍏 Nonprimitive
-    --------------------------------------
+    ______________________________________
     Int(int)          |    String (String)
                       |
     Double (double)   |    Array (array)
