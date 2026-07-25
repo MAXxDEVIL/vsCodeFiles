@@ -23,4 +23,14 @@
                       |
 
 
+## More variabls
+
+<img src ="image.png">
+
+
+## Creating variables
+
+> Declaration
+
+> Assignment
 

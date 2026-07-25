@@ -1,4 +1,4 @@
-public class main {
+public class STRING {
     
     public static void main(){
 
