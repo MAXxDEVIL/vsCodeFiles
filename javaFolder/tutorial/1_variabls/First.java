@@ -50,6 +50,17 @@ public class First{
         System.out.println("The car is for sell : " + isForSell);
         
 
+        // String (String)
+         // Is a datatype where we store strings ("hello world").
+         // It is a Nonprimitive data type.
+         // We assing value with doble quats "".
+
+        String bike = "Rocket 3";
+        String color = "red";
+        String Year = "2025";
+
+        System.out.println("Your chois a " + color + " " + Year + " " + bike );
+
 
 
 
