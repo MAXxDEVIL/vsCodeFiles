@@ -6,32 +6,32 @@
           z = x + y;
         
 #### Subtraction
-         // z = x - y;
+          z = x - y;
 
 #### Multiplication
-         // z = x * y;
+          z = x * y;
 
 #### Divition
-         // z = x / y;
+          z = x / y;
 
 #### Mod (reminder)
-         // z = x % y;
+          z = x % y;
 
 ### Augmented Assignment Operators
         
-        // x = x + y;
+          x = x + y;
 
 #### Sum
-         //x += y;
+          x += y;
         
 #### Subtraction
-         // x -= y;
+          x -= y;
 
 #### Multiplication 
-         // x *= y;
+          x *= y;
 
 #### Divition
-         // x /= y;
+          x /= y;
 
 #### Mod (reminder)
-         //x %= y;
+          x %= y;
