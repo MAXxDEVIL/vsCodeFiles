@@ -1,6 +1,6 @@
 ## Arithmetic Operator
 
-## Basic Opprators
+### Basic Opprators
 
         // Sum
          //z = x + y;
