@@ -2,6 +2,8 @@
 
 ### Basic Opprators
 
+---
+
 #### sum
 z = x + y;
         
@@ -18,8 +20,10 @@ z = x / y;
 z = x % y;
 
 ### Augmented Assignment Operators
-      
-        
+
+---
+
+
 x = x + y;
 
 #### Sum
