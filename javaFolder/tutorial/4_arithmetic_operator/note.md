@@ -2,7 +2,7 @@
 
 ### Basic Opprators
 
-    #### sum
+#### sum
           z = x + y;
         
 #### Subtraction
