@@ -1,42 +1,39 @@
 ## Arithmetic Operator
 
-### Basic Opprators
+## Basic Opprators
+
+        // Sum
+         //z = x + y;
+        
+        // Subtraction
+         // z = x - y;
+
+        // Multiplication
+         // z = x * y;
+
+        // Divition
+         // z = x / y;
+
+        // Mod (reminder)
+         // z = x % y;
 
 ---
 
-#### sum
-z = x + y;
+## Augmented Assignment Operators
         
-#### Subtraction
-z = x - y;
+        // x = x + y;
 
-#### Multiplication
-z = x * y;
-
-#### Divition
-z = x / y;
-
-#### Mod (reminder)
-z = x % y;
-
-### Augmented Assignment Operators
-
----
-
-
-x = x + y;
-
-#### Sum
-x += y;
+        // Sum
+         //x += y;
         
-#### Subtraction
-x -= y;
+        // Subtraction
+         // x -= y;
 
-#### Multiplication 
-x *= y;
+        // Multiplication 
+         // x *= y;
 
-#### Divition
-x /= y;
+        // Divition
+         // x /= y;
 
-#### Mod (reminder)
-x %= y;
+        // Mod (reminder)
+         //x %= y;
