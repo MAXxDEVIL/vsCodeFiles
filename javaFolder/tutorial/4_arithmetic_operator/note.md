@@ -5,33 +5,33 @@
     #### sum
           z = x + y;
         
-    #### Subtraction
+#### Subtraction
          // z = x - y;
 
-    #### Multiplication
+#### Multiplication
          // z = x * y;
 
-    #### Divition
+#### Divition
          // z = x / y;
 
-    #### Mod (reminder)
+#### Mod (reminder)
          // z = x % y;
 
 ### Augmented Assignment Operators
         
         // x = x + y;
 
-    #### Sum
+#### Sum
          //x += y;
         
-    #### Subtraction
+#### Subtraction
          // x -= y;
 
-    #### Multiplication 
+#### Multiplication 
          // x *= y;
 
-    #### Divition
+#### Divition
          // x /= y;
 
-    #### Mod (reminder)
+#### Mod (reminder)
          //x %= y;
