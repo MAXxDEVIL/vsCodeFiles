@@ -52,6 +52,17 @@ public class Opprator {
         // Mod (reminder)
          //x %= y;
 
+
+    // Increment and Decrement Poerator
+     
+        // Increment
+         // x++;
+        
+        // Decrement
+         // x--;
+
+    
+
          System.out.println(x);
 
 
