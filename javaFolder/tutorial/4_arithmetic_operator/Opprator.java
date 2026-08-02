@@ -61,6 +61,13 @@ public class Opprator {
         // Decrement
          // x--;
 
+
+    // Order of Operations
+        
+        // [P-E-M-D-A-S] = paretheses --> exponents --> multiplication --> division --> addition --> subtraction
+
+
+
     
 
          System.out.println(x);
