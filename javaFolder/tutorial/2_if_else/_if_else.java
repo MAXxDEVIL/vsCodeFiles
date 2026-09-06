@@ -1,12 +1,18 @@
-public class _if_else {
+public class _if_else{
 
-    public static void main(){
+    public static void main(String[] args){
 
-        boolean isPass = false;
+        boolean isPass = true;
+
+        if (isPass == true) {
+            System.out.println("You passe the exam");
+
+        }
+        else{
+            System.out.println("You fail the exam");
+        }
 
       
-
-
     }
     
 }
